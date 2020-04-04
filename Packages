@@ -1,0 +1,17 @@
+Package: gq.8a1wkar.dockx13
+Version: 1.0
+Section: My Tweaks
+Maintainer: 8a1wkar <hawkarxoshnaw341@gmail.com>
+Depends: firmware (<13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/gq.8a1wkar.dockx13_1.0_iphoneos-arm.deb
+Size: 240
+MD5sum: 74BED3903A179B44AA9458E899646AEB
+SHA1: 443CB4254398D9AEA6B2493C6D332ED91EAFDB4F
+SHA256: ACB9AAA16BCF34322BEC684954B483CE1003CBB0AE28B94AFD73742CAA810988
+Description: DockX 13 for change your dock iPhone/6/7/8 to iPhone X.
+Configure options from settings.
+Name: DockX 13
+Author: 8a1wkar <hawkarxoshnaw341@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+
