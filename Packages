@@ -6,7 +6,9 @@ Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/gq.supermamon.hidesurplusiphoneos-arm.deb
 Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+MD5sum: 4AAC3F49447DF85EA116B354984EEE53
+SHA1: D5976D0F31916ACD5DA08841492E0D787DE94846
+SHA256: 6FD1D6F34EDF37CE46B9DB4C4982DB9287F69FA35F924EF549BBDB3FDB5C9F8E
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: HideSurplus
 Author: Reposi3 <reposithree@gmail.com>
