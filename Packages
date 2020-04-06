@@ -1,0 +1,15 @@
+Package: gq.supermamon.hidesurplusiphoneos
+Version: 1.0
+Section: My Tweaks
+Maintainer: 8a1wkar <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/gq.supermamon.hidesurplusiphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: HideSurplus
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://8a1wkar.github.io/depictions/?p=gq.supermamon.hidesurplusiphoneos
+
+
