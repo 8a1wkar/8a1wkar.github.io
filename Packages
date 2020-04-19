@@ -14,3 +14,19 @@ Author: 8a1wkar <hawkarxoshnaw341@gmail.com>
 Depiction: https://8a1wkar.gq/depiction/gq.8a1wkar.hidesurplus.php
 Name: HideSurplus
 
+Package: gq.8a1wkar.dockx13
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 8a1wkar <hawkarxoshnaw341@gmail.com>
+Depends: mobilesubstrate 
+Filename: ./debs/gq.8a1wkar.dockx13.deb
+Size: 10650
+MD5sum: 696bc32a494c5b2bc35d95475850b44c
+SHA1: e529ea4558d59b572b6aaa8236c43352150cd970
+SHA256: 951d543e685403f8ab3bbf198c3f822061a727b40480998c497b9dc06750b59c
+Section: My Tweaks
+Description: DockX 13 for change your dock iPhone/6/7/8 to iPhone X.
+Author: 8a1wkar <hawkarxoshnaw341@gmail.com>
+Depiction: https://8a1wkar.gq/depiction/gq.8a1wkar.dockx13.php
+Name: DockX 13
+
