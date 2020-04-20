@@ -1,9 +1,9 @@
-Package: gq.8a1wkar.Myhidesurplus
+Package: gq.8a1wkar.myhidesurplus
 Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: 8a1wkar <hawkarxoshnaw341@gmail.com>
 Depends: mobilesubstrate 
-Filename: ./debs/gq.8a1wkar.hidesurplus.deb
+Filename: ./debs/gq.8a1wkar.myhidesurplus.deb
 Size: 43346
 MD5sum: 4aac3f49447df85ea116b354984eee53
 SHA1: d5976d0f31916acd5da08841492e0d787de94846
@@ -15,12 +15,12 @@ Depiction: https://8a1wkar.gq/depiction/gq.8a1wkar.hidesurplus.php
 Name: HideSurplus
 
 
-Package: gq.8a1wkar.Mydockx13
+Package: gq.8a1wkar.mydockx13
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 8a1wkar <hawkarxoshnaw341@gmail.com>
 Depends: mobilesubstrate 
-Filename: ./debs/gq.8a1wkar.dockx13.deb
+Filename: ./debs/gq.8a1wkar.mydockx13.deb
 Size: 10650
 MD5sum: 696bc32a494c5b2bc35d95475850b44c
 SHA1: e529ea4558d59b572b6aaa8236c43352150cd970
